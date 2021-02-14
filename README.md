@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @youssefhad
-- 👀 I’m interested in all kind of programming
+- 👀 I’m interested in all kinds of programming
 - 🌱 I’m currently learning flutter
 <!--- 
 - 💞️ I’m looking to collaborate on ...
