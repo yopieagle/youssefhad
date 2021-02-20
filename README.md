@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssefhad
 - 👀 I’m interested in all kinds of programming
-- 🌱 I’m currently working with flutte
+- 🌱 I’m currently working with Flutter
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...
